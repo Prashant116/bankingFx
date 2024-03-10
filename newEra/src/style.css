@@ -1,0 +1,30 @@
+.testBtn{
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+}
+.testBtn:hover{
+    -fx-background-color: white;
+    -fx-text-fill: rgb(4, 4, 75);
+}
+.login{
+    -fx-text-fill: rgb(21, 21, 61);
+    -fx-font-size: 30px;
+}
+
+.green-button{
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-padding: 10 30 10 30;
+}
+
+.text-field{
+    -fx-max-width: 150px;
+}
+
+.login-field{
+    -fx-min-width: 200px;
+}
+
+.error-message{
+    -fx-text-fill: red;
+}
